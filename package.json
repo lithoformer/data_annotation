@@ -1,0 +1,30 @@
+{
+  "name": "data_annotation",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "c3": "^0.7.20",
+    "chart.js": "^4.4.7",
+    "html-table-parser-node": "^1.2.1",
+    "parse-google-docs-json": "^3.0.0",
+    "plotly.js-dist": "^2.35.2"
+  },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "google-docs-console-download": "^1.1.1",
+    "google-docs-markup": "^1.0.1",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.2.0"
+  },
+  "keywords": [],
+  "description": ""
+}
